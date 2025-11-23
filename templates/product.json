@@ -74,6 +74,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_arUgEA": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"ultimate-badges\"></div>"
+          }
+        },
         "2c492c33-1eb0-4162-b6d5-f042aaa1bf07": {
           "type": "custom",
           "disabled": true,
@@ -84,7 +90,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "is_tab": true
+            "is_tab": false
           }
         },
         "c841f375-e9d8-412c-9b6b-82f987b27098": {
@@ -107,6 +113,7 @@
         "784c8724-f94c-4754-bdfe-fdee738799be",
         "custom_P4wDN7",
         "buy_buttons",
+        "custom_arUgEA",
         "2c492c33-1eb0-4162-b6d5-f042aaa1bf07",
         "description",
         "c841f375-e9d8-412c-9b6b-82f987b27098"

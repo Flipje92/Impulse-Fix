@@ -75,7 +75,7 @@
     "collection_grid_gutter": true,
     "cart_type": "drawer",
     "cart_icon": "bag-minimal",
-    "cart_additional_buttons": true,
+    "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
     "cart_terms_conditions_page": "shopify://policies/terms-of-service",

@@ -37,10 +37,10 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/summer_logo_3.png",
-            "logo-inverted": "shopify://shop_images/logos1.jpg",
-            "desktop_logo_width": 180,
-            "mobile_logo_width": 110
+            "logo": "shopify://shop_images/Elowen_Boutique_Zwart.svg",
+            "logo-inverted": "shopify://shop_images/Elowen_Boutique_wit.svg",
+            "desktop_logo_width": 200,
+            "mobile_logo_width": 200
           }
         }
       },

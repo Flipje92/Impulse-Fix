@@ -94,13 +94,6 @@
             "content": "",
             "page": "shipping-information"
           }
-        },
-        "sales_point_x6jKtm": {
-          "type": "sales_point",
-          "settings": {
-            "icon": "globe",
-            "text": "Shipping Worldwide"
-          }
         }
       },
       "block_order": [
@@ -116,8 +109,7 @@
         "buy_buttons",
         "2c492c33-1eb0-4162-b6d5-f042aaa1bf07",
         "description",
-        "c841f375-e9d8-412c-9b6b-82f987b27098",
-        "sales_point_x6jKtm"
+        "c841f375-e9d8-412c-9b6b-82f987b27098"
       ],
       "settings": {
         "sku_enable": false,

@@ -67,7 +67,7 @@
     }
   },
   "order": [
-    "announcement",
-    "header"
+    "header",
+    "announcement"
   ]
 }

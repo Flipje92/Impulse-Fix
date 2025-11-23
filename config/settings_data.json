@@ -456,17 +456,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      "@media only screen and (min-width: 769px) {.index-section {margin: 40px 0px; }}",
-      ".hotspots__title {padding-top: 1rem; margin-bottom: 30px;}",
-      ".iojfsv {padding: 0px 0;}",
-      "@media only screen and (min-width: 769px) {.section-header {margin-bottom: 30px; }}",
-      ".shopify-product-reviews-badge {min-height: 0px;}",
-      "@media only screen and (min-width: 769px) {.grid-product {margin-bottom: 10px; }}",
-      ".bacurr-choiceDesign {display: none !important;}",
-      ".main-content {margin-top: 5px;}",
-      ".announcement-bar {margin-top: 250px; padding: 5px 0;}",
-      "@media (max-width: 1023px) {.announcement-bar {margin-top: 90px; }}"
-    ]
+    "custom_css": []
   }
 }
